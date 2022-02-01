@@ -1,5 +1,5 @@
-print("willian is stupid")
-print("you is also nub")
+print("willian is jhhjhhjhjhjhstupid")
+print("you uhiis also nub")
 
 print("cumcumcucfwa2342fam")
-print("gdhhhdweffefeefererfrefewfwfegsddsggfawfagrgewfsdfefhuuhuh")
+print("gdhhhdhhjwe4324323242342ffefeefererfrefewfwfegsddsggfawfagrgewfsdfefhuuhuh")
